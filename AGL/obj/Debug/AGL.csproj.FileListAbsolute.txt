@@ -1,0 +1,17 @@
+C:\Code\AGL\AGL\bin\Debug\AGL.dll.config
+C:\Code\AGL\AGL\bin\Debug\AGL.dll
+C:\Code\AGL\AGL\bin\Debug\AGL.pdb
+C:\Code\AGL\AGL\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Code\AGL\AGL\bin\Debug\Newtonsoft.Json.dll
+C:\Code\AGL\AGL\bin\Debug\nunit.framework.dll
+C:\Code\AGL\AGL\bin\Debug\RestSharp.dll
+C:\Code\AGL\AGL\bin\Debug\System.ValueTuple.dll
+C:\Code\AGL\AGL\bin\Debug\TechTalk.SpecFlow.dll
+C:\Code\AGL\AGL\bin\Debug\WebDriver.dll
+C:\Code\AGL\AGL\bin\Debug\Newtonsoft.Json.xml
+C:\Code\AGL\AGL\bin\Debug\nunit.framework.pdb
+C:\Code\AGL\AGL\bin\Debug\nunit.framework.xml
+C:\Code\AGL\AGL\bin\Debug\WebDriver.xml
+C:\Code\AGL\AGL\obj\Debug\AGL.dll
+C:\Code\AGL\AGL\obj\Debug\AGL.pdb
+C:\Code\AGL\AGL\obj\Debug\AGL.csprojResolveAssemblyReference.cache
